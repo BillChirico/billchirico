@@ -79,13 +79,18 @@ Whether you're shipping your first PR or your hundredth, there's a seat at the t
 
 <div align="center">
 
-<a href="https://github.com/BillChirico">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BillChirico&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=007AFF&icon_color=007AFF&include_all_commits=true&count_private=true&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BillChirico&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-    <img src="https://github-readme-stats.vercel.app/api?username=BillChirico&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=007AFF&icon_color=007AFF&include_all_commits=true&count_private=true&rank_icon=github" alt="Bill's GitHub Stats" height="180"/>
-  </picture>
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=billchirico&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=billchirico&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=billchirico&show_icons=true" />
+</picture>
+
 <a href="https://github.com/BillChirico">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BillChirico&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=007AFF&langs_count=8&hide=html,css,scss" />
@@ -99,16 +104,6 @@ Whether you're shipping your first PR or your hundredth, there's a seat at the t
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BillChirico&theme=github-dark-blue&hide_border=true&background=0D1117&ring=007AFF&fire=007AFF&currStreakLabel=007AFF" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=BillChirico&theme=default&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=BillChirico&theme=github-dark-blue&hide_border=true&background=0D1117&ring=007AFF&fire=007AFF&currStreakLabel=007AFF" alt="GitHub Streak"/>
-  </picture>
-</a>
-
-### 🏆 Achievements
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=BillChirico&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=BillChirico&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
-    <img src="https://github-profile-trophy.vercel.app/?username=BillChirico&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </picture>
 </a>
 
